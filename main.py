@@ -3,7 +3,7 @@ import time
 import gc
 import torch
 
-batches = [2, 4, 6, 8]
+batches = [2, 4, 6]
 
 for batch in batches:
     for i in range(1,6):
