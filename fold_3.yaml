@@ -1,0 +1,11 @@
+path: .
+train:
+- dataset_detection/fold_1/images
+- dataset_detection/fold_2/images
+- dataset_detection/fold_4/images
+- dataset_detection/fold_5/images
+val:
+- dataset_detection/fold_3/images
+names:
+  0: traseira
+

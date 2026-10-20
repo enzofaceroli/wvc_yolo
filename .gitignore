@@ -1,0 +1,23 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+bounding_box_predictions/
+dataset_detection/
+loss_plots/
+WVC2026_detection/
+analise.py
+bounding_box.py
+dataset.py
+detection_metrics_aggregated.csv
+detection_metrics.csv
+image_distribution_by_fold.pdf
+loss.py
+yolo11n.pt
